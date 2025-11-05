@@ -1,12 +1,6 @@
-# Streamlit Web Framework
 streamlit==1.29.0
-
-# Excel Handling
 pandas==2.2.2
 openpyxl==3.1.2
-
-# For in-memory file handling
 xlsxwriter==3.2.0
-
-# Optional but recommended (for clean UI and stable behavior)
 numpy==1.26.4
+
