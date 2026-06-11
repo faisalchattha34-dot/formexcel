@@ -21,7 +21,7 @@ excel_file = st.file_uploader(
 
 if excel_file:
 
-    df = pd.read_excel(excel_file)
+    df = pd.read_excel(excel_file, engine="openpyxl")
 
     st.subheader("Detected Columns")
 
