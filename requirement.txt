@@ -1,6 +1,5 @@
 streamlit
 pandas
-openpyxl
 xlsxwriter
 sqlite3
 requests
