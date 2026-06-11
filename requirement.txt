@@ -1,6 +1,7 @@
 streamlit
 pandas
 xlsxwriter
+openpyxl
 sqlite3
 requests
 numpy
